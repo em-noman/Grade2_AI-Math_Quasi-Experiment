@@ -5,9 +5,9 @@
 ---
 
 > **📌 Current Project Status (November 2026):** 
-> * ✅ **Phase 1: Study Design & Baseline Diagnostics** — *Completed*
-> * 🔄 **Phase 2: 8-Day Classroom AI-Visual Intervention** — *In Progress*
-> * ⏳ **Phase 3: Post-Test Assessment & R Statistical Modeling** — *Scheduled*
+> * ✅ **Phase 1: Study Design & Baseline Diagnostics** - *Completed*
+> * 🔄 **Phase 2: 8-Day Classroom AI-Visual Intervention** - *In Progress*
+> * ⏳ **Phase 3: Post-Test Assessment & R Statistical Modeling** - *Scheduled*
 
 ---
 
@@ -20,20 +20,20 @@ This study evaluates whether culturally contextualized, **Generative AI-assisted
 Prior to the intervention, a 10-item diagnostic baseline assessment was administered, divided into **Section A** (5 bare-number procedural items) and **Section B** (5 word problems of varying semantic complexity).
 * **High Procedural Fluency:** The vast majority of participating students demonstrated strong mastery in Section A (direct numerical subtraction, including regrouping/borrowing).
 * **The Semantic Bottleneck (High Omission Rate):** A critical cognitive bottleneck emerged in Section B. Most students left **Items 8, 9, and 10** completely blank (omission errors) or defaulted to addition. These items involved:
-  1. **Comparison structures** (*"How many more/less?"* — Item 8)
+  1. **Comparison structures** (*"How many more/less?"* - Item 8)
   2. **Part-Whole remaining quantities** (Item 9)
-  3. **Missing subtrahends** ($a - ? = b$ — Item 10)
+  3. **Missing subtrahends** ($a - ? = b$ - Item 10)
 
 ### 3. Targeted 8-Day GenAI Visual Intervention
 To directly address the baseline diagnostic gaps, an 8-day classroom intervention was designed using AI-generated visual story slides tailored to the local rural context (e.g., boats, fish, mangoes):
-* **Days 1–3 (Comparison Module):** Side-by-side one-to-one visual matching to resolve confusion around the relational term *"more"* in subtraction.
-* **Days 4–5 (Part-Whole Module):** Visual bar/path progression to conceptualize remaining quantities.
-* **Days 6–8 (Missing Subtrahend Mystery):** Narrative visual detective stories to deduce unknown subtracted quantities.
+* **Days 1-3 (Comparison Module):** Side-by-side one-to-one visual matching to resolve confusion around the relational term *"more"* in subtraction.
+* **Days 4-5 (Part-Whole Module):** Visual bar/path progression to conceptualize remaining quantities.
+* **Days 6-8 (Missing Subtrahend Mystery):** Narrative visual detective stories to deduce unknown subtracted quantities.
 
 ### 4. Variables & Data Architecture (20-Variable Codebook)
 The study tracks both cognitive outcomes and in-class behavioral processes across three phases:
 * **Baseline & Controls:** `Student_ID`, `Gender`, `Baseline_Math_Grade`
-* **Cognitive Metrics (Pre & Post):** `SecA_Score` (0–5), `SecB_Simple` (0–2), `SecB_Complex` (0–3), `Total_Score` (0–10), `Blank_Count` (omission tracking), `Add_Confusion` (operation error tracking).
+* **Cognitive Metrics (Pre & Post):** `SecA_Score` (0-5), `SecB_Simple` (0-2), `SecB_Complex` (0-3), `Total_Score` (0-10), `Blank_Count` (omission tracking), `Add_Confusion` (operation error tracking).
 * **8-Day Behavioral Process Metrics:** 
   * `Int_Attendance` (Dosage effect: 0–8 days)
   * `Active_Participation` (Tally of voluntary responses)
