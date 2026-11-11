@@ -23,7 +23,7 @@ Prior to the intervention, a 10-item diagnostic baseline assessment was administ
   1. **Comparison structures** (*"How many more/less?"* - Item 8)
   2. **Part-Whole remaining quantities** (Item 9)
   3. **Missing subtrahends** ($a - ? = b$ - Item 10)
-![Baseline Semantic Cliff](figures/Graph1_Semantic_Cliff_Baseline.png)
+![Baseline Semantic Cliff](Figures/Graph/Graph1_Semantic_Cliff_Baseline.png)
 ### 3. Targeted 8-Day GenAI Visual Intervention
 To directly address the baseline diagnostic gaps, an 8-day classroom intervention was designed using AI-generated visual story slides tailored to the local rural context (e.g., boats, fish, mangoes):
 * **Days 1-3 (Comparison Module):** Side-by-side one-to-one visual matching to resolve confusion around the relational term *"more"* in subtraction.
