@@ -4,7 +4,7 @@
 
 ---
 
-## 🖼️ Slide 1: Contextual Story Hook — Glass Jars of Marbles (মার্বেলের বয়ামের গল্প)
+##️ Slide 1: Contextual Story Hook — Glass Jars of Marbles (মার্বেলের বয়ামের গল্প)
 * **Pedagogical Goal:** Introduce 42 vs. 27 without visual clutter by showing tens as sealed glass jars and ones as loose marbles.
 * **Gamma AI Image Prompt (ইমেজ প্রম্পট বক্সে পেস্ট করুন):**
   > `Flat 2D vector educational illustration on a clean white background. Top shelf: a smiling Bangladeshi boy standing next to 4 big glass jars filled with marbles and 2 single loose blue marbles on the table. Bottom shelf: a smiling Bangladeshi girl standing next to 2 big glass jars filled with marbles and 7 single loose red marbles on the table. Simple, uncluttered children's textbook art style, bright colors, no background distractions, no gibberish text.`
@@ -15,7 +15,7 @@
 
 ---
 
-## 🖼️ Slide 2: The Regrouping Bottleneck — Can We Match 2 with 7? (২টি থেকে ৭টি বাদ দেওয়ার সমস্যা)
+##️ Slide 2: The Regrouping Bottleneck — Can We Match 2 with 7? (২টি থেকে ৭টি বাদ দেওয়ার সমস্যা)
 * **Pedagogical Goal:** Help Tier 2 and Tier 3 students (`G2_06`, `G2_09`–`G2_15`, `G2_17`–`G2_18`) visually see *why* we cannot subtract 7 from 2 directly, preventing the common error of subtracting upside down ($7 - 2 = 5$).
 * **Gamma AI Image Prompt (ইমেজ প্রম্পট বক্সে পেস্ট করুন):**
   > `Minimalist 2D cartoon illustration for Grade 2 math on a light cream background. A young Bangladeshi child looking closely with a magnifying glass at a wooden table. On the left side of the table are only 2 blue glass marbles. On the right side are 7 red glass marbles. A big red question mark floats in the center between the 2 blue marbles and 7 red marbles. Clean flat vector graphic, exact marble count, simple and clear.`
@@ -26,7 +26,7 @@
 
 ---
 
-## 🖼️ Slide 3: The Core Visual Scaffold — Opening One Jar of 10! (১০-এর একটি বয়াম খুলে ফেলা!)
+##️ Slide 3: The Core Visual Scaffold — Opening One Jar of 10! (১০-এর একটি বয়াম খুলে ফেলা!)
 * **Pedagogical Goal:** Visually demonstrate "borrowing 1 ten" (দশকের ঘর থেকে ১ ধার নেওয়া মানে ১০টি খুচরা মার্বেল যোগ হওয়া: $10 + 2 = 12$).
 * **Gamma AI Image Prompt (ইমেজ প্রম্পট বক্সে পেস্ট করুন):**
   > `Educational 2D vector illustration on a white background. Three closed glass jars filled with marbles sit on the left. Next to them, one open glass jar is tipping over and pouring out 10 glowing yellow marbles onto a table next to 2 blue marbles, making a group of 12 loose marbles. Magical sparkles around the open jar, clean flat children's book illustration, clear and easy to understand.`
@@ -37,7 +37,7 @@
 
 ---
 
-## 🖼️ Slide 4: Matching After Regrouping & Vertical Subtraction Bridge (জোড়া মেলানো ও খাতায় বিয়োগ)
+##️ Slide 4: Matching After Regrouping & Vertical Subtraction Bridge (জোড়া মেলানো ও খাতায় বিয়োগ)
 * **Pedagogical Goal:** Bridge the visual "3 jars and 12 loose marbles minus 2 jars and 7 loose marbles" directly to standard vertical subtraction ($\begin{smallmatrix} 42 \\ -27 \end{smallmatrix}$).
 * **Gamma AI Image Prompt (ইমেজ প্রম্পট বক্সে পেস্ট করুন):**
   > `Clean 2D classroom illustration. A friendly Bangladeshi teacher standing beside a large green chalkboard. On the chalkboard, large white chalk numbers clearly show the subtraction "42 - 27 = 15". Next to the chalkboard on a desk sit 1 glass jar of marbles and 5 loose marbles. Bright, minimalist flat vector style, crisp numbers.`
@@ -48,7 +48,7 @@
 
 ---
 
-## 🖼️ Slide 5: Guided Practice — Baskets of Guavas (৩৫ বনাম ১৮ এর অনুশীলন)
+##️ Slide 5: Guided Practice — Baskets of Guavas (৩৫ বনাম ১৮ এর অনুশীলন)
 * **Pedagogical Goal:** Independent/Guided practice on a second borrowing comparison problem (35 vs. 18, identical structure to Pre-Test Item 8). Observe and score `Scaffolding_Need` (1, 2, or 3).
 * **Gamma AI Image Prompt (ইমেজ প্রম্পট বক্সে পেস্ট করুন):**
   > `Flat 2D vector illustration for primary school math on a white background. Top row shows 3 woven bamboo baskets filled with green guavas, plus 5 single loose green guavas in a neat row on the right. Bottom row shows 1 woven bamboo basket filled with green guavas, plus 8 single loose green guavas in a neat row on the right. Clean, bright, simple educational graphic.`
